@@ -1,0 +1,205 @@
+<html>
+    <head>
+        <title>Home page</title>
+        <link rel="icon" href="cat.png.png">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Hi Melody">
+    </head>
+    <body background="bqaca.jpg">
+      <h1> Vehicle HUB 1</h1>
+      <h2> Vehicle HUB 2</h2>
+      <h3> Vehicle HUB 3</h3>
+      <h4> Vehicle HUB 4</h4>
+      <h5> Vehicle HUB 5</h5>
+      <h6> Vehicle HUB 6</h6>
+           
+      <marquee>BIKE AND CAR STORE</marquee>
+            <center><font size="7" face="Hi melody"><b>VEHICLE STORE</b></font></center>
+           
+      <ul type="square"> 
+         <li>PRICE</li> 
+         <li>ENGEN CAPECITY</li>
+         <li>SUPER SPEED</li>
+      </ul>
+      <img="">
+       <ul type="disc">
+        <li>KAWASAKI NINJA H2R</li>
+       </ul>
+       <img src="kawasaki ninja h2r.jpg">  
+       <video width="250" controls>
+         <source src="kawasaki gg.mp4" type="video/mp4">
+       </video>
+        <ul type="circle">
+        <li>PRICE</li>
+        <ul type="disc">
+         <li>RS 18 011 000</li>
+        </ul>
+
+        <ul type="circle"></ul>
+         <li>ENGEN CAPACITY</li>
+         <ul type="disc">
+           <li>998cc </li> 
+        </ul>
+
+        <ul type="circle"></ul>
+         <li>MAX SPEED</li>
+         <ul type="disc">
+            <li>452 KMh</li>
+         </ul>
+         
+        </ul>
+         <ul type="disc">
+          <li>BMW S1000 RR</li>
+          <img src="bmw 1000rr.jpg">
+          <video width="250" controls>
+            <source src="2024 bmw.mp4" type="video/mp4">
+          </video>
+          <video width="250" controls>
+            <source src="vel.mp4" type="video/mp4">
+          </video>
+         </ul>
+         <ul type="circle">
+            <li>PRICE</li>
+         <ul type="disc">
+            <li>RS 9 780 000</li>
+         </ul>
+        
+         <ul type="circle"></ul>
+            <li>ENGEN CAPACITY</li>
+         <ul type="disc">
+            <li>999CC</li>
+         </ul>
+
+         <ul type="circle"></ul>
+            <li>MAX SPEED</li>
+          <ul type="disc">
+            <li>303 Kmph</li>
+          </ul>  
+         </ul>
+         <ul type="disc">
+            <li>KAWASAKI NINJA ZX 10R</li>
+         </ul>
+       <img src="kawasaki (2).jpg">
+       <ul type="circle">
+         <li>PRICE</li>
+         <ul type="disc">
+           <li> RS 6 459 640</li> 
+         </ul>
+         <ul type="circle"></ul>
+            <li>ENGINE CAPACITY</li>
+          <ul type="disc">
+            <li>998 CC</li>
+          </ul>  
+         <ul type="circle"></ul>
+         <li> MAX SPEED</li>
+         <ul type="disc">
+            <li>299Kmph</li>
+         </ul>
+       </ul>
+         <ul type="disc">
+            <li>YAMAHA YZF-R6</li>
+         </ul>
+         <img src="yamaha.jpg">
+         <video width="250" controls>
+            <source src="yamaha r1 b.mp4" type="video/mp4">
+          </video>
+          <video width="250" controls>
+            <source src="yamaha r1  v.mp4" type="video/mp4">
+          </video>
+         <ul type="circle">
+         <li>PRICE</li>
+         <ul type="disc">
+            <li>RS 2 100 000</li>
+         </ul>  
+          <ul type="circle"></ul>
+            <li>ENGIN CAPACITY</li>
+            <ul type="disc">
+               <li>998 CC</li>
+            </ul>
+            <ul type="circle"></ul>
+            <li>MAX SPEED</li>
+            <ul type="disc">
+              <li>299Kmph</li> 
+            </ul>
+            <video width="450" controls>
+               <source src="u d.mp4" type="video/mp4">
+             </video>
+         
+<table border="3">
+   <caption>VEHICALE DETALIS</caption>
+   <tr>
+      <th>VEHICALE NAME</th>
+      <th>PRICE</th>
+      <th>ENGINE CAPACITY</th>
+      <th>MAX SPEED</th>
+      <th>FULE TANK CAPACITY</th>
+      <th>KERB WEIGHT</th>
+   </tr>
+   <tr>
+      <td>KAWASAKI NINJA H2R</td>
+      <td>RS 18 011 000</td>
+      <td>998 CC</td>
+      <td>452 Kmph</td>
+      <td>17 litre</td>
+      <td>216 kg</td>
+   </tr>
+   <tr>
+      <td>BMW S1000RR</td>
+      <td>RS 9 780 000</td>
+      <td>999 CC</td>
+      <td>303 Kmph</td>
+      <td>16.5 litre</td>
+      <td>197 kg</td>
+   </tr>
+   <tr>
+      <td>KAWASAKI NINJA ZX 10R</td>
+      <td>RS 6 459 640</td>
+      <td>998 CC</td>
+      <td>299 Kmph</td>
+      <td>17 litre</td>
+      <td>207 kg</td>
+   </tr>
+   <tr>
+      <td>YAMAHA YZF-R1</td>
+      <td>RS 2 100 000</td>
+      <td>998 CC</td>
+      <td>299 Kmph</td>
+      <td>17 litre</td>
+      <td>203 kg</td>
+   </tr>
+   <tr>
+      <td>YAMAHA YZF-R6</td>
+      <td>RS 3 600 000</td>
+      <td>599 CC</td>
+      <td>262 Kmph</td>
+      <td>17 litre</td>
+      <td>190 kg</td>
+   </tr>
+   <tr>
+      <td>CBR 1000RR</td>
+      <td>RS 6 379 780</td>
+      <td>999 CC</td>
+      <td>303 Kmph</td>
+      <td>16.1 litre</td>
+      <td>211 kg</td>
+   </tr>
+   <tr>
+      <td>DUCATI PANIGALE V4</td>
+      <td>RS 4 636 000</td>
+      <td>1103 CC</td>
+      <td>299 Kmph</td>
+      <td>17 litre</td>
+      <td>193 kg</td>
+   </tr>
+   <tr>
+      <td>DUCATI PANIGALE V4R</td>
+      <td>RS 10 008 900</td>
+      <td>998 CC</td>
+      <td>345 Kmph</td>
+      <td>17 litre</td>
+      <td>193.5 kg</td>
+   </tr>
+</table>
+
+         
+    </body>
+  </html>
